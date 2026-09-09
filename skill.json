@@ -1,0 +1,13 @@
+{
+  "name": "genpark-locality-sensitive-hashing-lsh-cosine-skill",
+  "version": "1.0.0",
+  "description": "Locality-Sensitive Hashing (LSH) using Random Hyperplane Projections for sublinear approximate nearest neighbor search under Cosine distance.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "lsh",
+    "locality-sensitive-hashing",
+    "approximate-nearest-neighbor",
+    "vector-search"
+  ]
+}
